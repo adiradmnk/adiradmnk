@@ -23,9 +23,16 @@ Building interactive visual tutoring, document intelligence pipelines, and real-
 
 ```
 ilmora-whiteboard/
-├── Real-time AI visual tutoring platform
+├── Real-time AI visual tutoring platform (ilmora.co.id)
 ├── Projects voice explanations into an interactive canvas with auto-synced visual engines & smart inking
 └── Tech: Python · Go · Next.js · TypeScript · Gemini API · PostgreSQL
+```
+
+```
+lanjut.id/
+├── AI-powered subscription retention platform for BNI merchant ecosystem (github.com/adiradmnk/lanjut.id)
+├── Automated churn detection, adaptive survey generation, and margin-safe retention offers via Gemini AI
+└── Tech: Go (Gin) · Python (FastAPI AI Sidecar) · Next.js · PostgreSQL · Docker
 ```
 
 ```
@@ -63,10 +70,10 @@ befu-climate/
 | Layer | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python, Go, TypeScript, JavaScript |
-| **AI / ML & Vision** | Gemini API, TrOCR, PaddleOCR, Ollama, Transformers, OpenCV |
+| **AI / ML & Vision** | Gemini API, TrOCR, PaddleOCR, Ollama, Transformers, Churn Prediction |
 | **Frontend & Visualization** | Next.js (App Router), React, React Flow, Tailwind CSS |
-| **Backend & Systems** | FastAPI, Go (Gin/Fiber), PostgreSQL, REST APIs |
-| **Infra & DevOps** | Docker, Linux, Self-hosted GPU/CPU Inference Servers |
+| **Backend & Architecture** | Go (Gin), FastAPI (AI Sidecars), Microservices, Reverse Proxy (Nginx) |
+| **Data & DevOps** | PostgreSQL, Docker Compose, Linux, Self-hosted Inference Runtimes |
 
 ---
 
