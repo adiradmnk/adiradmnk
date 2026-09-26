@@ -2,7 +2,7 @@
 
 # Adriana Ainurrahmah Damanik
 
-**Founder & AI Systems Engineer**  
+**AI Systems Engineer**  
 Building interactive visual tutoring, document intelligence pipelines, and real-time AI tools.
 
 [ilmora.co.id](https://ilmora.co.id) · [LinkedIn](https://linkedin.com/in/adiradmnk) · [Email](mailto:adrianadamanik@gmail.com)
@@ -13,7 +13,7 @@ Building interactive visual tutoring, document intelligence pipelines, and real-
 
 ### Current Focus
 
-- 🚀 **Founder & CEO** at [**PT Ilmora Digital Innovation**](https://ilmora.co.id) — engineering real-time multimodal AI systems for interactive learning.
+- 🚀 At [**PT Ilmora Digital Innovation**](https://ilmora.co.id) — engineering real-time multimodal AI systems for interactive learning.
 - 🔬 Researching & deploying production Vision-Language models (TrOCR, visual document intelligence, local inference on edge & server).
 - 🧩 Exploring real-time reasoning visualization (DAGs, interactive canvas, cognitive bias mitigation).
 
