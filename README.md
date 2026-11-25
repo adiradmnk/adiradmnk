@@ -6,14 +6,6 @@ on a cheap laptop in a classroom, in front of a student who stops listening afte
 Right now I run [Ilmora](https://ilmora.co.id), where we're making a tutor that talks
 and draws on a whiteboard at the same time — the way a good teacher does.
 
-```
-based in      Indonesia
-working on    real-time voice → canvas tutoring (ilmora)
-before        medical document OCR @ PT MCSYS Care Solution
-writes        Python, Go, TypeScript
-reach me      adrianadamanik@gmail.com · linkedin.com/in/adiradmnk
-```
-
 ---
 
 #### things i've built
