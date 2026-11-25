@@ -30,10 +30,3 @@ the paper behind it won 1st place + best presenter at UISO 2024, Universitas Ind
 
 ---
 
-#### notes to self
-
-- small models running locally beat big models nobody can afford to call
-- if the user has to wait, the model is wrong, not the user
-- test with real people early. the kids in Pandeglang taught me more than any benchmark
-
-<sub>open to working together on education, health, or anything where AI actually has to help someone.</sub>
